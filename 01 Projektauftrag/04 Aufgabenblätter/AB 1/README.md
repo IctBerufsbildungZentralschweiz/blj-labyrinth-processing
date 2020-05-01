@@ -8,7 +8,26 @@ Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Schreibtischtest)
 
 ## Aufgaben
 
-Drucke das Aufgabenblatt aus und löse die Aufgaben im Kopf und schriftlich auf Papier. Verwende bitte keine Entwicklungsumgebung und keinen Taschenrechner.
+Verwende bitte keine Entwicklungsumgebung und keinen Taschenrechner, sondern löse die Aufgaben im Kopf und schriftlich auf Papier. Drucke dazu das Aufgabenblatt aus.
 
-### Aufgabe 1
+**Was wird jeweils in der Konsole ausgegeben?**
 
+Aufgabe 1
+
+```java 
+    int a = 25;
+    println(a);
+```
+
+Ausgabe: ___
+
+Aufgabe 2
+
+```java 
+    int a = 25;
+    int b;
+    b = a + 5;
+    println(b);
+```
+
+Ausgabe: ___
