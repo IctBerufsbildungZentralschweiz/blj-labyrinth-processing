@@ -12,7 +12,7 @@ Verwende bitte keine Entwicklungsumgebung und keinen Taschenrechner, sondern lö
 
 **Was wird jeweils in der Konsole ausgegeben?**
 
-Aufgabe 1
+### Aufgabe 1
 
 ```java 
     int a = 25;
@@ -21,7 +21,7 @@ Aufgabe 1
 
 Ausgabe: ___
 
-Aufgabe 2
+### Aufgabe 2
 
 ```java 
     int a = 25;
