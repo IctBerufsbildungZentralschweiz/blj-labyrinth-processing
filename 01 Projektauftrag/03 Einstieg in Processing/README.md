@@ -94,10 +94,35 @@ Im folgenden Beispiel wird der Background beim Drücken der Maustaste neu gezeic
         line(mouseX, mouseY, 70, 90);
     }
 
-     void mousePressed() {
+    void mousePressed() {
        background(255, 0, 0);
      }
 ```
+
+## Die Konsole
+
+Unterhalb des Editors, wo du deine Processing-Befehle eingibst, befindet sich die _Konsole_.
+
+Mit der Funktion `println()` kann beliebiger Text in die Konsole ausgegeben werden (siehe Bild).
+
+![Bild](res/konsole.jpg)
+
+### Fehler
+
+In der Konsole werden auch Fehler angezeigt, die beim Programmieren passieren.
+
+Ein Beispiel:
+
+```java
+    void setup() {
+        size(200, 150);
+        background(255, 0, 0;  
+    }
+```
+
+Die bei der Funktion _background()_ vergessene Klammer in der 3. Zeile, ein Syntax-Fehler, wird nach Start des Programms in der Konsole gemeldet. Das ist sehr praktisch und hilft enorm bei der Fehlersuche und -behebung.
+
+![Bild](res/konsole-fehler.jpg)
 
 ## Quellenverzeichnis
 
