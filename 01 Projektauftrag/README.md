@@ -1,29 +1,27 @@
 # Projektauftrag
 
-todo
+## Zu Beginn
 
-## Organisation
-
-Zu Beginn erledigen wir gemeinsam ein paar organisatorische Aufgaben:  
+Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:  
 
 1. Entwickler-Teams bilden
-    - Es gibt mindestens 3er- und maximal 4er-Teams.
+    - Es sind mindestens 3er- und maximal 4er-Teams zu bilden. 
+    - [ ] erledigt
 
 2. Project-Board einrichten
     - Jedes Team führt ein Project-Board.
-    - Es kann das vorbereitete Trello-Board kopiert werden: todo Link einfügen
+    - Die Teammitglieder werden vom BLJ-Coach zu einem bei [Trello](https://trello.com/) vorbereiteten Board eingeladen.
+    - [ ] erledigt
 
 3. Planung des ersten Sprints:
     - Die Student- und User Stories für den ersten Sprint auswählen.
-    - Gegebenenfalls Tasks erstellen.
+    - Allenfalls Tasks erstellen (User Stories in kleinere Aufgaben zerlegen).
     - Die ausgewählten User Stories respektive Tasks einem Entwickler zuweisen, der für deren Umsetzung verantwortlich ist.
+    - [ ] erledigt
 
 ## Sprints
 
-
 ### Sprint 1
-
-
 
 ### Sprint 2
 
