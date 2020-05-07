@@ -21,7 +21,7 @@ Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:
 ### Sprint 1
 
 - [ ] **Entwicklungsumgebung einrichten]**
-  - Hier geht's zur [Anleitung](01 Entwicklungsumgebung einrichten/README.md)
+  - Hier geht's zur [Anleitung](https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/01%20Aufgaben/01%20Entwicklungsumgebung%20einrichten)
 
 ### Sprint 2
 
