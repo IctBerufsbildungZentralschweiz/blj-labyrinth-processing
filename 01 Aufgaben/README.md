@@ -20,6 +20,9 @@ Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:
 
 ### Sprint 1
 
+- [ ] **Entwicklungsumgebung einrichten]**
+  - Hier geht's zur [Anleitung](01 Entwicklungsumgebung einrichten/README.md)
+
 ### Sprint 2
 
 ### Sprint 3
