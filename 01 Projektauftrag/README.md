@@ -54,7 +54,7 @@ Während des ersten Sprints werden die folgenden Student- und User Stories umges
 #### Zu erledigende Student Stories
 
 - [ ] **Entwicklungsumgebung einrichten**
-  - Hier geht's zur [Anleitung](https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/01%20Aufgaben/01%20Entwicklungsumgebung%20einrichten).
+  - Folge der [Anleitung](https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/01%20Entwicklungsumgebung%20einrichten).
 
 #### Zu erledigende User Stories
 
