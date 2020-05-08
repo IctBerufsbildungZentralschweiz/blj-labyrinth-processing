@@ -11,6 +11,10 @@ Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:
   - Jedes Team führt ein Project-Board.
   - Die Teammitglieder werden vom BLJ-Coach zu einem bei [Trello](https://trello.com/) vorbereiteten Board eingeladen.
   - Das Project-Board enthält das vorbereitete Backlog (siehe unten).
+  
+- [ ] **Was ist ein Backlog? Was sind User Stories? Was sind Student Stories? Was sind Tasks?**
+  - Informiere dich, indem du untenstehendes [Kapitel](#Das-Backlog) durchliest.
+  - Bespreche allfällige Fragen dazu mit deinen Teamkollegen.
 
 - [ ] **Ersten Sprint planen**
   - Die Student- und User Stories für den ersten Sprint auswählen und im Project-Board aus dem Backlog ins Sprint Backlog verschieben.
@@ -21,7 +25,7 @@ Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:
 
 Ein Backlog (englisch für: Rückstau oder Rückstand) beschreibt einen Nachholbedarf an Arbeit, der sich während einer bestimmten Zeit angesammelt hat. Übertragen auf unser Projekt heisst das, dass das  Backlog alle Aufgaben enthält, die erledigt werden müssen. Das Backlog findest du in der ersten Spalte des deinem Team zugewiesenen Project-Boards.
 
-Das Backlog besteht aus sogenannten _User Stories_ und aus ein paar _Student Stories_. Was das ist, wird nachfolgend erklärt.
+Das Backlog besteht aus sogenannten _User Stories_ und auch aus ein paar _Student Stories_. Was das ist, wird nachfolgend erklärt.
 
 ### User Stories
 
@@ -45,12 +49,14 @@ Tasks sind kleine Aufgaben, die bearbeitet werden müssen, damit eine User- oder
 
 ### Sprint 1
 
-Während des ersten Sprints werden die folgenden Student- und User Stories umgesetzt. 
+Während des ersten Sprints werden die folgenden Student- und User Stories umgesetzt.
 
-#### Studen Stories
+#### Zu erledigende Student Stories
 
 - [ ] **Entwicklungsumgebung einrichten**
   - Hier geht's zur [Anleitung](https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/01%20Aufgaben/01%20Entwicklungsumgebung%20einrichten).
+
+#### Zu erledigende User Stories
 
 ### Sprint 2
 
