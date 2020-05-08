@@ -1,6 +1,4 @@
-# Aufgabenblatt 1
-
-## Schreibtischtest
+# Schreibtischtest
 
 > Der Schreibtischtest ist ein Verfahren, das im Bereich der Softwareentwicklung verwendet wird, um Algorithmen oder Routinen auf Richtigkeit zu prüfen. Der Schreibtischtest wird nicht mit Hilfe eines Rechners durchgeführt, sondern vielmehr im Kopf des Entwicklers.
 
