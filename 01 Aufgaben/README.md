@@ -13,11 +13,11 @@ Zu Beginn kümmern wir uns gemeinsam um einige organisatorische Dinge:
   - Das Project-Board enthält das vorbereitete Backlog (siehe unten).
   
 - [ ] **Was ist ein Backlog? Was sind User Stories? Was sind Student Stories? Was sind Tasks?**
-  - Informiere dich, indem du untenstehendes [Kapitel](#Das-Backlog) durchliest.
+  - Informiere dich, indem du [untenstehendes Kapitel](#Das-Backlog) durchliest.
   - Bespreche allfällige Fragen dazu mit deinen Teamkollegen.
 
 - [ ] **Ersten Sprint planen**
-  - Die Student- und User Stories für den ersten Sprint auswählen und im Project-Board aus dem Backlog ins Sprint Backlog verschieben.
+  - Die Student- und User Stories für den [ersten Sprint](#Sprint-1) auswählen und im Project-Board aus dem Backlog ins Sprint Backlog verschieben.
   - Allenfalls Tasks erstellen (User Stories in kleinere Aufgaben zerlegen).
   - Die ausgewählten User Stories respektive Tasks einem Entwickler zuweisen, der für deren Umsetzung verantwortlich ist.
 
