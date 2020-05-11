@@ -51,13 +51,31 @@ Tasks sind kleine Aufgaben, die bearbeitet werden müssen, damit eine User- oder
 
 Während des ersten Sprints werden die folgenden Student- und User Stories umgesetzt.
 
-#### Zu erledigende Student Stories
+#### Zu erledigende _Student Stories_
 
 - [ ] **Entwicklungsumgebung einrichten**
-  - Folge der [Anleitung](https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/01%20Entwicklungsumgebung%20einrichten).
+  - Das Geschicklichkeitsspiel wird mit "Processing" programmiert. Dazu muss die PDE (Processing Development Environment) heruntergeladen und installiert werden. Die Anleitung dazu ist hier zu finden: <https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/01%20Entwicklungsumgebung%20einrichten>
 
-#### Zu erledigende User Stories
+- [ ] **Einstieg in Processing**
+  - Als Einstieg in die Programmiersprache und Entwicklungsumgebung von Processing, soll das folgende Tutorial bearbeitet werden: <https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/02%20Einstieg%20in%20Processing>
+
+- [ ] **Grundelemente einer Programmiersprache kennen**
+  - Bevor wir mit dem Programmieren des Labyrinths beginnen, ist es wichtig, bestimmte Grundelemente, die in allen Programmiersprachen sehr ähnlich sind, zu kennen und zu verstehen. Diese Elemente sind hier beschrieben: <https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/03%20Grundelemente%20einer%20Programmiersprache>
+
+- [ ] **Schreibtischtest**
+  - Zur Lernkontrolle, ob die Grundelemente einer Programmiersprache verstanden wurden, wird ein Schreibtischtest durchgeführt. Die Aufgaben sind hier zu finden: <https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/04%20Schreibtischtest>
+
+#### Zu erledigende _User Stories_
+
+- [ ] **Labyrinth erstellen**
+  - Als Spieler möchte ich die Spielfläche in Form eines 2D-Labyrinths sehen, nachdem ich das Spiel gestartet habe.
+
 
 ### Sprint 2
+
+#### Zu erledigende _User Stories_ 
+
+- [ ] **Scheibe erstellen**
+  - Als Spieler möchte ich eine runde Scheibe sehen, wenn ich das Programm gestartet habe. Die Scheibe soll sich innerhalb des Labyrinths auf der Startposition befinden.
 
 ### Sprint 3
