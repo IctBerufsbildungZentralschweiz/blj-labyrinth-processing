@@ -35,7 +35,7 @@ In den meisten Programmiersprachen werden Verzweigungen mit der `if`-Anweisung r
 
 ![Bild](res/erklaerung-if.jpg)
 
-### Beispiel
+Beispiel:
 
 ```java
     double preis = 10.8;
@@ -74,7 +74,7 @@ Eine Schleife kann mit der `while`-Anweisung realisiert werden.
 
 ![Bild](res/erklaerung-while.jpg)
 
-### Beispiel
+Beispiel:
 
 Im folgenden Beispiel werden die Anweisungen im `while`-Anweisungsblock nur solange durchlaufen, wie der Wert in der Variablen i kleiner als 10 ist, d.h. sobald i den Wert 10 erreicht, wird die `while`-Schleife nicht mehr ausgeführt.
 
