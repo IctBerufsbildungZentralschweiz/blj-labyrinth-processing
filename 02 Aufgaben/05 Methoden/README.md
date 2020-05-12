@@ -1,6 +1,6 @@
 # Methoden (Funktionen)
 
-Eine Methode oder Funktion ist eine Folge von Anweisungen, die unter einem bestimmten Namen aufgerufen werden kann. 
+Eine Methode - je nach Programmiersprache auch "Funktion" genannt - ist eine Folge von Anweisungen, die unter einem bestimmten Namen aufgerufen werden kann.
 
 ```java
     void doSomething() {
