@@ -49,7 +49,7 @@ Tasks sind kleine Aufgaben, die bearbeitet werden müssen, damit eine User- oder
 
 ### Sprint 1
 
-Während des ersten Sprints werden die folgenden Student- und User Stories umgesetzt.
+Während des ersten Sprints sind mindestens die folgenden Student- und User Stories zu erledigen.
 
 #### Zu erledigende _Student Stories_
 
@@ -70,12 +70,23 @@ Während des ersten Sprints werden die folgenden Student- und User Stories umges
 - [ ] **Labyrinth erstellen**
   - Als Spieler möchte ich die Spielfläche in Form eines 2D-Labyrinths sehen, nachdem ich das Spiel gestartet habe.
 
-
 ### Sprint 2
 
-#### Zu erledigende _User Stories_ 
-
-- [ ] **Scheibe erstellen**
-  - Als Spieler möchte ich eine runde Scheibe sehen, wenn ich das Programm gestartet habe. Die Scheibe soll sich innerhalb des Labyrinths auf der Startposition befinden.
+Das Team entscheidet im Rahmen des Sprint Planning selber, welche Stories umgesetzt werden.
 
 ### Sprint 3
+
+Das Team entscheidet im Rahmen des Sprint Planning selber, welche Stories umgesetzt werden. Die folgenden beiden _Student Stories_ müssen jedoch zwingend bearbeitet werden (falls nicht schon im Sprint 2 erledigt).
+
+- [ ] **Methoden**
+  - Ein Programmierer muss zwingend wissen, was Methoden sind und wozu sie verwendet werden. Es soll das Grundwissen über Methoden im Selbststudium erarbeitet werden: <https://github.com/IctBerufsbildungZentralschweiz/blj-labyrinth-processing/tree/master/02%20Aufgaben/05%20Methoden>
+
+- [ ] **Refactoring**
+  - Der bestehende Code soll auf Redundanzen (Copy-Paste Code) untersucht und wo sinnvoll/nötig mittels Methoden neu strukturiert werden.
+
+## Hilfe und Ressourcen zu Processing
+
+- Sprachreferenz: <https://processing.org/reference/>
+- Tutorials: <https://processing.org/tutorials/>
+- Beispiele: <https://processing.org/examples/>
+- Learning Processing (Video-Tutorial): <https://www.youtube.com/watch?v=a562vsSI2Po&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=8>
