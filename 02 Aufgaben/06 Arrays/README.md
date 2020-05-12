@@ -47,9 +47,5 @@ Ein zweidimesionales Array kann man sich wie eine Tabelle vorstellen. Im folgend
     numbers[0][1] = 12; // Wert 12 in Zeile 1, Spalte 2 der "Tabelle" ablegen
     ...
     numbers[1][2] = 23; // Wert 23 in Zeile 2, Spalte 3 der "Tabelle" ablegen 
-
-    for (int i = 0; i < numbers.length; i++) {
-        println(numbers[i]);
-    }
 ```
 
