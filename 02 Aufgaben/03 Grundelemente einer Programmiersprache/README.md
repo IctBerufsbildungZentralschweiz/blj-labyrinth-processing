@@ -101,7 +101,7 @@ Arithmetische Operatoren werden benötigt, um Rechnungen auszuführen.
 |:---------:|--------------------------------------------------------------------------------------------------------------------------|
 | +         | Additionsoperator, bildet die Summe zweier Operanden (x + y).                                                            |
 | -         | Subtraktionsoperator, bildet die Differenz zweier Operanden (x - y).                                                     |
-| *         | Multiplikationsoperator, multipliziert zwei Operanden (x * y).                                                           |
+| *         | Multiplikationsoperator, multipliziert zwei Operanden (x* y).                                                            |
 | /         | Divisionsoperator, dividiert zwei Operanden (x / y) und behält den Nachkommateil der Division.                           |
 | %         | Restwertoperator (Modulo-Operator), dividiert zwei Operanden (x % y) und liefert als Ergebnis den Restwert der Division. |
 
@@ -161,7 +161,3 @@ Die Wahrheitstabelle zeigt auf, welche Ergebnisse die durch die logischen Operat
 | true        | false       | false        | true        | true         |
 | false       | true        | false        | true        | true         |
 | true        | true        | true         | true        | false        |
-
-## Funktionen (Methoden)
-
-todo
