@@ -54,8 +54,9 @@ Wenn die Bedingung nicht erfüllt ist, kann mit `else` ein alternativer Ablauf f
     else {
          println("Da Sie älter als 16 sind, zahlen Sie den vollen Preis.");
     }
-
 ```
+
+![Bild](res/erklaerung-if.jpg)
 
 ## Schleifen
 
