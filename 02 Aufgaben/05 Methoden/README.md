@@ -43,25 +43,25 @@ Je nach Programmiersprache wird die Gross-/Klein-Schreibweise von Methodennamen 
     - Erster Buchstabe klein geschrieben und jedes neue Wort mit Grossbuchstaben beginnend.
     - z.B: bei `Java` -> _berechneSumme()_
 
-In unserem Processing-Projekt verwenden wir die Camel case Schreibweise.
+In unserem Processing-Projekt verwenden wir die Camel Case Schreibweise.
 
 ## Nutzen von Methoden
 
-### Code strukturieren
+### Strukturierung
 
 Methoden sind ein wichtiges Mittel zur Strukturierung von Quellcode. Dank der Verwendung von Methoden wird der Code leserlicher, wie oben am Beispiel mit den drei Kreisen zu sehen ist. Der Name der Methode (zeichneDreiKreise) ist selbsterklärend; jemand, der den Code liest kann so einfacher und schneller verstehen, was der Code macht.
 
-### Code wiederverwenden
+### Wiederverwendung
 
 Code, der in Methoden ausgelagert wird, ist wiederverwendbar; denn die Methode kann nicht nur einmal, sondern so oft wie es nötig ist und von überall her aufgerufen werden.
-
-Es gilt:
 
 ![Bild](res/code-auslagern.jpg)
 
 ## Methoden mit Parametern
 
-Einer Methode können Parameter übergeben werden. Im folgenden Beispiel nimmt die Methode _zeichneKreise()_  zwei Parameter entgegen. Der erste Paramater repräsentiert dabei die x-Koordinate, wo der Kreis gezeichnet werden soll. Und der zweite Parameter bestimmt, wieviele Kreise gezeichnet werden sollen. Die Methode wird drei mal aufgerufen.
+Einer Methode können Parameter übergeben werden.
+
+Im folgenden Beispiel nimmt die Methode _zeichneKreise()_  zwei Parameter entgegen. Der erste Paramater bestimmt, wo auf der x-Koordinate die Kreise gezeichnet werden sollen und der zweite Parameter bestimmt, wie viele Kreise gezeichnet werden sollen. 
 
 ```java
     void zeichneKreise(int x, int anzahl) {
@@ -72,9 +72,9 @@ Einer Methode können Parameter übergeben werden. Im folgenden Beispiel nimmt d
 
     void setup() {
         size(1024, 768);
-        zeichneKreise(50, 5);
-        zeichneKreise(150, 4);  
-        zeichneKreise(250, 3);  
+        zeichneKreise(50, 5);  
+        zeichneKreise(150, 3);  
+        zeichneKreise(250, 1);  
     }
 ```
 
