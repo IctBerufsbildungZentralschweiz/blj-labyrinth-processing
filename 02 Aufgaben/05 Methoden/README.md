@@ -84,18 +84,20 @@ Kopiere den obigen Code in deine Processing-Umgebung und führe ihn aus. Du soll
 
 ## Methoden mit Rückgabetyp
 
-Mithilfe der `return`-Anweisung ist es möglich, einen Wert, der innerhalb der Methode berechnet wird, an den Aufrufer der Methode zurückzugeben. Dazu muss das `void` vor dem Methodennamen ersetzt werden, mit dem Datentyp des Wertes, den die Methode zurückgeben soll. Am besten veranschaulicht dies ein Beispiel. 
+Mithilfe der `return`-Anweisung ist es möglich, einen Wert, der innerhalb der Methode berechnet wird, an den Aufrufer der Methode zurückzugeben. Dazu muss das Schlüsselwort `void` vor dem Methodennamen ersetzt werden, mit dem Datentyp des Wertes, den die Methode zurückgibt.
+
+Ein Beispiel:
 
 ```java
     int berechneSumme(int zahl1, int zahl2) {
         int resultat = zahl1 + zahl2;
-        return resultat; // das berechnete Resultat wird an den Aufrufer zurückgebeben
+        return resultat; // das berechnete Resultat wird an den Aufrufer zurückgegeben
     }
 
     void setup() {
         size(1024, 768);
-        int summe = berechneSumme(25, 5);
-        println(summe);
+        int summe = berechneSumme(25, 5); // das zurückgegebene Resultat wird in die Variable "summe" kopiert
+        println("Die Summe ist: " + summe);
     }
 
 ```
