@@ -29,7 +29,13 @@ Eine Verzweigung ist eine Stelle in einem Programm, wo es unterschiedliche Mögl
 
 ![Bild](res/struktogramm-verzweigung.jpg)
 
-In den meisten Programmiersprachen werden Verzweigungen mit der `if`-Anweisung realisiert, so auch bei _Processing_:
+### Syntax
+
+In den meisten Programmiersprachen werden Verzweigungen mit der `if`-Anweisung realisiert, so auch bei _Processing_.
+
+![Bild](res/erklaerung-if.jpg)
+
+### Beispiel
 
 ```java
     double preis = 10.8;
@@ -56,13 +62,19 @@ Wenn die Bedingung nicht erfüllt ist, kann mit `else` ein alternativer Ablauf f
     }
 ```
 
-![Bild](res/erklaerung-if.jpg)
-
 ## Schleifen
 
 Eine Schleife verwenden wir, um Wiederholungen im Programm zu realisieren – also um bestimmte Dinge mehrmals zu machen. Dabei hat jede Schleife eine Durchlauf-Bedingung, damit sie nicht endlos läuft. D.h. vor jedem  Durchlauf wird eine Bedingung geprüft und der Anweisungsblock der Schleife wird nur ausgeführt, wenn die Bedingung zutrifft.
 
 ![Bild](res/struktogramm-schleife.jpg)
+
+### Syntax
+
+Eine Schleife kann mit der `while`-Anweisung realisiert werden.
+
+![Bild](res/erklaerung-while.jpg)
+
+### Beispiel
 
 Im folgenden Beispiel werden die Anweisungen im `while`-Anweisungsblock nur solange durchlaufen, wie der Wert in der Variablen i kleiner als 10 ist, d.h. sobald i den Wert 10 erreicht, wird die `while`-Schleife nicht mehr ausgeführt.
 
