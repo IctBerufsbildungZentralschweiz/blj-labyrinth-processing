@@ -39,11 +39,11 @@ Als <Rolle> möchte ich <Wunsch>, um <Nutzen>
 
 ### Student Stories
 
-In unserem Backlog befinden sich nebst den Anforderungen an das Geschicklichkeitsspiels auch Lernaufträge. Wir nennen diese _Student Story_. Die Student Stories sollen aufzeigen, welche Lernaktivitäten notwendig sind, um die verschiedenen User Stories während eines Sprints umsetzen zu können. Einige Student Stories sind vom Basislehrjahr-Coach vorgegeben, es können bei Bedarf aber auch (zusätzliche) Student Stories von den Teammitgliedern erstellt werden.
+In unserem Backlog befinden sich nebst den Anforderungen auch Lernaufträge. Wir nennen diese _Student Story_. Die Student Stories zeigen auf, welche Lernaktivitäten notwendig sind, um die User Stories umsetzen zu können. Einige Student Stories sind vom Basislehrjahr-Coach vorgegeben, es können bei Bedarf aber auch eigene (zusätzliche) Student Stories von den Teammitgliedern erstellt werden.
 
 ### Tasks
 
-Tasks sind kleine Aufgaben, die bearbeitet werden müssen, damit eine User- oder Student-Story erledigt werden kann. Die Tasks werden beim Sprint-Planning vom Team erstellt und geplant. Ein Task sollte so klein sein, dass er in überschaubarer Zeit (2-3 Std.) erledigt werden kann.
+Tasks sind kleine Aufgaben, die bearbeitet werden müssen, damit eine User- oder Student-Story erledigt werden kann. Die Tasks sind nicht vorgegeben, sondern werden beim Sprint-Planning vom Team erstellt und geplant. Ein Task sollte so klein sein, dass er in überschaubarer Zeit (2-3 Std.) erledigt werden kann.
 
 ## Sprints
 

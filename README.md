@@ -39,11 +39,11 @@ Für die Umsetzung der Projektarbeit stehen 22 Std. zur Verfügung. Die zur Verf
 
 ### Umsetzung
 
-Das Team setzt den Plan um. Die Programmieraufgaben können (müssen aber nicht) im sogenannten [Pair Programming](https://de.wikipedia.org/wiki/Paarprogrammierung) durchgeführt werden. Beim Pair Programming arbeiten zwei Programmierer gleichzeitig an einem Arbeitsplatz: Einer schreibt den Code, während der andere über die Problemstellungen nachdenkt, den geschriebenen Code kontrolliert sowie Probleme, die ihm dabei auffallen, sofort anspricht. Diese können dann sofort im Gespräch gelöst werden. Wichtig ist, dass die beiden Programmierer sollte sich in den beiden Rollen abwechseln, z.B. alle 20 Minuten.
+Das Team setzt den Plan um. Die Programmieraufgaben können (müssen aber nicht) im sogenannten [Pair Programming](https://de.wikipedia.org/wiki/Paarprogrammierung) durchgeführt werden. Beim Pair Programming arbeiten zwei Programmierer gleichzeitig an einem Arbeitsplatz: Einer schreibt den Code, während der andere über die Problemstellungen nachdenkt, den geschriebenen Code kontrolliert sowie Probleme, die ihm dabei auffallen, sofort anspricht. Diese können dann sofort im Gespräch gelöst werden. Wichtig ist, dass die beiden Programmierer sich in den Rollen abwechseln, z.B. alle 20 Minuten.
 
 ### Review
 
-Das Team prüft am Ende des Sprints den erzielten Fortschritt und präsentiert das erreichte Resultat dem Basislehrjahr-Coach. 
+Das Team prüft am Ende des Sprints den erzielten Fortschritt und präsentiert das erreichte Resultat dem Basislehrjahr-Coach.
 
 **Für das Review stehen 10 Minuten zur Verfügung.**
 
