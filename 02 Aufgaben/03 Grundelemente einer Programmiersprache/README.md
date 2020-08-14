@@ -148,7 +148,7 @@ Logische Operatoren werden benötigt, wenn z. B. eine Bedingung aus zwei zusamme
 |:---------:|-----------------------------------------------------------------------------------------------------------------------------|
 | !         | Unärer Negationsoperator. Der Ausdruck `!a` ist `true`, wenn **a** unwahr ist und er ist `false`, wenn **a** wahr ist.      |
 | &&        | And-Operator. Der Ausdruck `a && b` ist `true`, wenn sowohl **a** als auch **b**  wahr sind.                                |
-| \|\|        | Or-Operator. Der Ausdruck `a || b` ist `true`, wenn entweder **a** oder **b** wahr ist.                                     |
+| \|\|        | Or-Operator. Der Ausdruck `a \|\| b` ist `true`, wenn entweder **a** oder **b** wahr ist.                                     |
 | ^         | Xor-Operator. Der Ausdruck `a ^ b` ist `true`, wenn die beiden beteiligten Operanden unterschiedliche Wahrheitswerte haben. |
 
 #### Wahrheitstabelle
