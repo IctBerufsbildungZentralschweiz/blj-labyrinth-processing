@@ -208,6 +208,7 @@ Ausgabe: ___
 ### Aufgabe 15
 
 ```java
+    int a = 100;
     Boolean b = true;
     while (b == true) {
         a++;
