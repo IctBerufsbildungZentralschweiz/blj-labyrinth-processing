@@ -10,11 +10,13 @@ Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Modularit%C3%A4t)
 
 Ein **Modul** stellt eine abgeschlossene Einheit dar, die bestimmte Funktionen zur Lösung von Aufgaben zur Verfügung stellt. Modulare Programmierung hat den Vorteil, dass der Quelldcode eines Softwareprojektes kontrollierbarer und übersichtlicher wird. Auch die Zusammenarbeit im Team wird durch Modularisierung verbessert; denn Module können einzeln und unabhängig voneinander geplant, programmiert und getestet werden.
 
-## Den Quellcode mit Hilfe von Tabs strukturieren
+## Processing: Code mit Hilfe von Tabs strukturieren
 
 Processing bietet mit dem Konzept der **Tabs** eine Möglichkeit, den Code aufzuteilen. Ein Tab kann dabei wie ein Modul angesehen werden.
 
-Nutze Tabs, um deinen Quellcode zu strukturieren und übersichtlicher zu gestalten. Achte dabei darauf, dass jeder Tab für die Erledigung einer bestimmten Aufgabe zuständig ist und verschiebe entsprechend nur zusammengehörigen Code in den Tab. Achte ebenso darauf, dass du die Tabs entsprechend benennst: die Namen der Tabs sollten aussagekräftig sein!
+Nutze Tabs, um deinen Quellcode zu strukturieren und übersichtlicher zu gestalten. Achte dabei darauf, dass jeder Tab für die Erledigung einer bestimmten Aufgabe zuständig ist und verschiebe entsprechend nur zusammengehörigen Code in einen Tab. Achte ebenso darauf, dass du die Tabs entsprechend benennst; denn die Namen der Tabs sollten aussagekräftig sein.
+
+### Tab zum Projekt hinzufügen
 
 Um einen neuen Tab zum Projekt hinzuzufügen, klickst du auf den Pfeil neben dem bestehenden Tab und wählst im Kontext-Menu den Befehl "Neuer Tab". Processing legt für jeden Tab ein neues File an.
 
